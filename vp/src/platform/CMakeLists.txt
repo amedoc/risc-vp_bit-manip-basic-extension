@@ -1,0 +1,8 @@
+subdirs(common)
+subdirs(basic)
+subdirs(hifive)
+subdirs(multicore)
+subdirs(mc4)
+subdirs(tiny)
+subdirs(tiny64)
+subdirs(linux)
